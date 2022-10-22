@@ -193,13 +193,15 @@ body {
     color: var(--primary-white-coor);
     background: var(--accent-color);
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+    border: none;
 }
 
 .hat-btn:focus,
 .hat-btn:hover{
     background: var(--hero-btn-activ);
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
-    border-radius: var(--hero-btn-activ) 4px;
+    border-radius: 4px;
 }
 
 /* Особливості */
