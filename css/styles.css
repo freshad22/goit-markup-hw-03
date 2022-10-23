@@ -80,6 +80,7 @@ body {
 
 .header-logo {
     background: var(--primary-white-coor);
+    border-bottom: 1px solid #ECECEC;
 }
 
 .header-container {
@@ -254,6 +255,7 @@ body {
 
 .section-engaged {
     background-color: var(--primary-white-coor);
+    padding-bottom: 94px;
 }
 
 .engaged-title-hh {
@@ -312,7 +314,7 @@ body {
 }
 
 .team-text {
-    padding: 30px 61px;
+    padding: 30px 0;
 
 }
 
@@ -345,7 +347,8 @@ body {
     padding-bottom: 60px;
 }
 
-.logo-footer {
+.logotip-footer {
+    display: block;
     margin-bottom: 20px;
 }
 
